@@ -1,1 +1,1 @@
-# Facial_Authentication_AI
+# Chest_Disease_Detection_AI
